@@ -1,6 +1,6 @@
-# 🤖 AutoCommit — Automated GitHub README Updater
+# 🤖 AutoCommit - Automated GitHub README Updater
 
-A Python Streamlit application that **automatically modifies and commits** changes to a GitHub repository's `README.md` — deployed on **Hugging Face Spaces** with zero user interaction required.
+A Python Streamlit application that **automatically modifies and commits** changes to a GitHub repository's `README.md` - deployed on **Hugging Face Spaces** with zero user interaction required.
 
 ---
 
